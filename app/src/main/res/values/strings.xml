@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Munchies Compose</string>
+    <string name="umain_logo">Umain logo</string>
+    <string name="delivery_time">%1$d min</string>
+    <string name="rating">%1$.1f</string>
+    <string name="chevron_image">Chevron image</string>
+    <string name="banner_image">Banner image</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="filter_image">Filter image</string>
+    <string name="clock_icon">Clock icon</string>
+    <string name="rating_icon">Rating icon</string>
+</resources>
